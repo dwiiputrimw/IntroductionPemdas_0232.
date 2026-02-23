@@ -18,4 +18,6 @@ int main(){ //mulai
     //langkah 5
     cout << "Hasilnya : " << luas;
 
+    //selesai
+
 }
